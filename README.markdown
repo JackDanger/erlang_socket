@@ -12,7 +12,7 @@ Features:
   * allows easy upgrading of tcp connections via to_ssl_* functions
   * helps you apply reasonable default options to all sockets
 
-Written by Jack Danger Canty (code@jackcanty.com)
+Written by [Jack Danger Canty](http://jackcanty.com)
 
 Extracted from [gen_smtp](http://github.com/Vagabond/gen_smtp) written by Andrew Thompson (andrew@hijacked.us)
 
