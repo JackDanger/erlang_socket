@@ -14,4 +14,7 @@ Features:
 
 Written by Jack Danger Canty (code@jackcanty.com)
 
-Extracted from gen_smtp written by Andrew Thompson (andrew@hijacked.us)
+Extracted from [gen_smtp](http://github.com/Vagabond/gen_smtp) written by Andrew Thompson (andrew@hijacked.us)
+
+![Socket Image](http://farm4.static.flickr.com/3192/2561854165_e4d74d95c2_m.jpg)
+<small>image by [incurable hippie](http://www.flickr.com/photos/hippie/)</small>
